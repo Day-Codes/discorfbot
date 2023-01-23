@@ -1,0 +1,37 @@
+{
+  "token": "no",
+  "mongooseConnectionString": "no",
+  "activity": "Oop- there a truth or dare command",
+  "prefix": "!",
+  "status": "dnd",
+  "hostingweb": true,
+  "privacypolicy": true,
+  
+  
+  "developers": ["718200923490615316", "693553429380857978", "958383890131718285","705048027865415690","959215890321260545"],
+  "adminRole": ["877371826970435644"],
+  "hosRole": "892925045410762842",
+
+
+  
+  "color": {
+    "main"   : "#ff3c00",
+    "error"  : "#ff5f8e",
+    "success": "#99ff9c",
+
+    "red"   : "#ff5a48",
+    "orange": "#ffca4d",
+    "yellow": "#ffcc5c",
+    "green" : "#74ff89",
+    "purple": "#7d5eff",
+    "pink"  : "#ff88d2",
+    "grey"  : "#4b4b4b",
+    "white" : "#ffffff",
+       "webhook": {
+      "id": "1017785617117102183",
+      "token": "tx73ES8zv3-KVsIIgLX76zTrL5Tkn_zygg4OJhtKM_xR7BH_5fEAxnSYFXU2z1I-ew6b"
+   }
+  }
+}
+
+
